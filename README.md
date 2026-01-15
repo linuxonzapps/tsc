@@ -16,8 +16,10 @@ projects in this Organization directly.
 
 ## Calendar & Meetings
 
-The public calendar for this project can be found here: [LFX Meetings: Mainframe
-Software Hub for
+Meetings are held on the fourth Thursday of the month at 15:30 UTC.
+
+See the public calendar for the project for details on how to join, or if there
+are any changes to this schedule: [LFX Meetings: Mainframe Software Hub for
 Linux](https://zoom-lfx.platform.linuxfoundation.org/meetings/mainframe-software-hub-for-linux)
 
 Members of the TSC and the broader community attend these meetings.
